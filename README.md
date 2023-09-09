@@ -6,7 +6,9 @@ Read HOWTOUSE.txt to check out the application
 Here is a quick preview of the application!
 
 
-https://github.com/husaab/musicstore/assets/126218851/508c7ce7-74b1-4fc9-8b8b-fb125bfcc4be
+https://github.com/husaab/musicstore/assets/126218851/b2a68c11-580a-4a2b-81f0-fa09b220a9e7
+
+
 
 
 
