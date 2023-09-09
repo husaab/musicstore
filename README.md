@@ -1,7 +1,7 @@
 # musicstore
 Created a text-based music store application using Java, offering an immersive and simulated music shopping experience.
 
-Read HOWTOUSE.txt to check out the application
+Read HOWTOUSE.txt to learn how to use the application
 
 Here is a quick preview of the application!
 
